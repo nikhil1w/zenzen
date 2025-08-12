@@ -16,7 +16,7 @@ BOT_TEXT = "newtxtbot"
 OWNER_ID = int(os.environ.get("OWNER_ID", "7780806801"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002700941177"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002807750022"))
 
 # //FORCE_CHANNEL_ID
 CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002860305395")) 
